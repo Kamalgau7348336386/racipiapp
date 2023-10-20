@@ -1,2 +1,2 @@
-# racipiapp
-my recipes app from complete Web Development 
+# blogapp
+my blogs app from complete Web Development 
